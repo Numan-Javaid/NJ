@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on [blog link]
 
 - 💬 Ask me about **DevOps**
 

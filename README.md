@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numan Javaid</h1>
-<h3 align="center">A Passionate Cloud & DevOps Engineer from Pakistan</h3>
+<h3 align="center">A passionate Cloud & DevOps Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numan-javaid&label=Profile%20views&color=0e75b6&style=flat" alt="numan-javaid" /> </p>
 
@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **Openshift**
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
+  
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 🤝 I’m looking for help with **DevOps**
 
@@ -32,4 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numan-javaid&show_icons=true&locale=en&layout=compact" alt="numan-javaid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=numan-javaid&show_icons=true&locale=en" alt="numan-javaid" /></p>
+
 
